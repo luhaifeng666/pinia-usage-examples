@@ -1,5 +1,9 @@
 # pinia-usage-examples
-Pinia usage examples.
+Pinia 的使用示例。
+
+相关文章可以查看掘金的文章：[Pinia初体验](https://juejin.cn/post/7057950109832577054) 。
+
+文章也已同步至[酱豆腐精的小站](https://luhaifeng666.github.io/post/pinia-chu-ti-yan/) 。 
 
 ## Vue 3 + Typescript + Vite
 
